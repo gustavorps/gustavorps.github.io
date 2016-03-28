@@ -26,4 +26,11 @@ body {
 }
 
 @media print, screen and (max-width: 480px) {
+  .logo {
+    width: 2.1em;
+    height: 2.1em;
+    left: 51%;
+    top: 50%;
+    font-size: 8em;
+  }
 }
