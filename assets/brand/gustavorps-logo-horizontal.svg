@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"
+  preserveAspectRatio="xMinYMax meet" viewBox="0 0 210 60">
+  <title>GustavoRPS.net Logo</title>
+  <style>
+    path {
+      stroke: #000;
+      stroke-width: 0;
+      fill: #000;
+      stroke-linejoin: miter;
+      stroke-linecap: butt;
+      fill-rule: evenodd;
+    }
+
+    .cmyk .g {
+      fill: #00CFFA;
+    }
+    .cmyk .r {
+      fill: #FF0038;
+    }
+    .cmyk .p {
+      fill: #FFCE38;
+    }
+    .cmyk .s {
+      fill: #020509;
+    }
+  </style>
+
+  <g class="grps-logo cmyk">
+    <path d="m 50,10 H10 V50 h40 V30 H40 V40 H20 V20 h30 V10 z" class="g"/>
+    <path d="m 60,50 V10 h40 V40 H90 v10 H80 V40 H70 v10 H60 z M 70,30 V20 h20 V30 H70 z" class="r"/>
+    <path d="m 110,50 V10 h40 v30 H120 v10 H110 z M 120,30 V20 h20 v10 H120 z" class="p"/>
+    <path d="m 200,10 H160 v20 h10 V20 h30 V10 z M 160,50 h40 V30 H190 v10 H160 v10 z" class="s"/>
+  </g>
+</svg>

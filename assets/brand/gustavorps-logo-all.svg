@@ -1,0 +1,263 @@
+<svg id="grpsLogo"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  preserveAspectRatio="xMinYMax meet" viewBox="0 0 210 60">
+  <title>GustavoRPS.net Logo</title>
+  <desc>
+    Gustavo RPS (GRPS) is an fullstack developer since 2005.
+  </desc>
+  <style>
+    polyline {
+      fill-opacity: 0;
+      stroke: inherit;
+    }
+    rect {
+      stroke-width: 0.02;
+      fill: inherit;
+    }
+    path {
+      stroke: #000;
+      fill: none;
+      stroke-linejoin: miter;
+      stroke-linecap: butt;
+      fill-rule: evenodd;
+    }
+
+    .background {
+      fill: #F7F7F7;
+      stroke: #F7F7F7;
+    }
+
+    .grps-logo--plt-google g:nth-child(1), .grps-logo--plt-google > g:nth-child(1) polyline {
+      fill: #EA4335;
+      stroke: #EA4335;
+    }
+    .grps-logo--plt-google g:nth-child(2), .grps-logo--plt-google g:nth-child(2) polyline {
+      fill: #FBBC05;
+      stroke: #FBBC05;
+    }
+    .grps-logo--plt-google g:nth-child(3), .grps-logo--plt-google g:nth-child(3) polyline {
+      fill: #34A853;
+      stroke: #34A853;
+    }
+    .grps-logo--plt-google g:nth-child(4), .grps-logo--plt-google g:nth-child(4) polyline {
+      fill: #4285F4;
+      stroke: #4285F4;
+    }
+    .grps-logo--plt-google .background {
+      fill: #F7F7F7;
+      stroke: #F7F7F7;
+    }
+
+    .grps-logo--plt-flat-ui--blue g:nth-child(1), .grps-logo--plt-flat-ui--blue g:nth-child(1) polyline {
+      fill: #E74C3C;
+      stroke: #E74C3C;
+    }
+    .grps-logo--plt-flat-ui--blue g:nth-child(2), .grps-logo--plt-flat-ui--blue g:nth-child(2) polyline {
+      fill: #3498DB;
+      stroke: #3498DB;
+    }
+    .grps-logo--plt-flat-ui--blue g:nth-child(3), .grps-logo--plt-flat-ui--blue g:nth-child(3) polyline {
+      fill: #2980B9;
+      stroke: #2980B9;
+    }
+    .grps-logo--plt-flat-ui--blue g:nth-child(4), .grps-logo--plt-flat-ui--blue g:nth-child(4) polyline {
+      fill: #2C3E50;
+      stroke: #2C3E50;
+    }
+    .grps-logo--plt-flat-ui--blue .background {
+      fill: #ECF0F1;
+      stroke: #ECF0F1;
+    }
+
+    .grps-logo--plt-brazil g:nth-child(1), .grps-logo--plt-brazil g:nth-child(1) polyline {
+      fill: #009B3A;
+      stroke: #009B3A;
+    }
+    .grps-logo--plt-brazil g:nth-child(2), .grps-logo--plt-brazil g:nth-child(2) polyline {
+      fill: #FFE11F;
+      stroke: #FFE11F;
+    }
+    .grps-logo--plt-brazil g:nth-child(3), .grps-logo--plt-brazil g:nth-child(3) polyline {
+      fill: #1651B8;
+      stroke: #1651B8;
+    }
+    .grps-logo--plt-brazil g:nth-child(4), .grps-logo--plt-brazil g:nth-child(4) polyline {
+      fill: #16B83E;
+      stroke: #16B83E;
+    }
+    .grps-logo--plt-brazil .background {
+      fill: #FFF;
+      stroke: #FFF;
+    }
+
+    .grps-logo--plt-light {
+      fill: #000;
+      stroke: #000;
+    }
+
+    .grps-logo--plt-dark {
+      fill: #FFF;
+      stroke: #FFF;
+    }
+  </style>
+  <symbol id="grpsLogoSquareSilhouettePath" width="110" height="110">
+    <path d="M 50,10 10,10 10,50 50,50 50,30 40,30 40,40 20,40 20,20 50,20 z" class="grps-logo-g"/>
+    <path d="M 60,50 60,10 100,10 100,20 100,40 90,40 90,50 80,50 80,40 70,40 70,50 60,50 z M 70,30 70,20 90,20 90,30 70,30 z " class="grps-logo-r"/>
+    <path d="M 10,100 10,60 50,60 50,90 20,90 20,100 10,100 z M 20,80 20,70 40,70 40,80 20,80 z"  class="grps-logo-p"/>
+    <path d="M 100,60 60,60 60,80 70,80 70,70 100,70 100,60 z M 60,100 100,100 100,80 90,80 90,90 60,90 60,100 z"  class="grps-logo-s"/>
+  </symbol>
+  <symbol id="grpsLogoHorizontalSilhouettePath" width="210" height="60">
+    <path d="M 50,10 10,10 10,50 50,50 50,30 40,30 40,40 20,40 20,20 50,20 z" class="grps-logo-g"/>
+    <path d="M 60,50 60,10 100,10 100,20 100,40 90,40 90,50 80,50 80,40 70,40 70,50 60,50 z M 70,30 70,20 90,20 90,30 70,30 z " class="grps-logo-r"/>
+    <path d="M 110,50 110,10 150,10 150,40 120,40 120,50 110,50 z M 120,30 120,20 140,20 140,30 120,30 z" class="grps-logo-p"/>
+    <path d="M 200,10 160,10 160,30 170,30 170,20 200,20 200,10 z M 200,30 200,50 160,50 160,40 190,40 190,30 200,30 z" class="grps-logo-s"/>
+  </symbol>
+  <symbol id="grpsLogoSquareRect" width="11" height="11">
+    <g class="grps-logo--wd-g">
+      <rect x="4" y="1" width="1" height="1"/>
+      <rect x="3" y="1" width="1" height="1"/>
+      <rect x="2" y="1" width="1" height="1"/>
+      <rect x="1" y="1" width="1" height="1"/>
+      <rect x="1" y="2" width="1" height="1"/>
+      <rect x="1" y="3" width="1" height="1"/>
+      <rect x="1" y="4" width="1" height="1"/>
+      <rect x="2" y="4" width="1" height="1"/>
+      <rect x="3" y="4" width="1" height="1"/>
+      <rect x="4" y="4" width="1" height="1"/>
+      <rect x="4" y="3" width="1" height="1"/>
+    </g>
+    <g class="grps-logo--wd-r">
+      <rect x="6" y="4" width="1" height="1"/>
+      <rect x="6" y="3" width="1" height="1"/>
+      <rect x="6" y="2" width="1" height="1"/>
+      <rect x="6" y="1" width="1" height="1"/>
+      <rect x="7" y="1" width="1" height="1"/>
+      <rect x="8" y="1" width="1" height="1"/>
+      <rect x="9" y="1" width="1" height="1"/>
+      <rect x="9" y="2" width="1" height="1"/>
+      <rect x="9" y="3" width="1" height="1"/>
+      <rect x="8" y="3" width="1" height="1"/>
+      <rect x="7" y="3" width="1" height="1"/>
+      <rect x="8" y="4" width="1" height="1"/>
+    </g>
+    <g class="grps-logo--wd-p">
+      <rect x="1" y="9" width="1" height="1"/>
+      <rect x="1" y="8" width="1" height="1"/>
+      <rect x="1" y="7" width="1" height="1"/>
+      <rect x="1" y="6" width="1" height="1"/>
+      <rect x="2" y="6" width="1" height="1"/>
+      <rect x="3" y="6" width="1" height="1"/>
+      <rect x="4" y="6" width="1" height="1"/>
+      <rect x="4" y="7" width="1" height="1"/>
+      <rect x="4" y="8" width="1" height="1"/>
+      <rect x="3" y="8" width="1" height="1"/>
+      <rect x="2" y="8" width="1" height="1"/>
+    </g>
+    <g class="grps-logo--wd-s">
+      <rect x="9" y="6" width="1" height="1"/>
+      <rect x="8" y="6" width="1" height="1"/>
+      <rect x="7" y="6" width="1" height="1"/>
+      <rect x="6" y="6" width="1" height="1"/>
+      <rect x="6" y="7" width="1" height="1"/>
+      <rect x="9" y="8" width="1" height="1"/>
+      <rect x="9" y="9" width="1" height="1"/>
+      <rect x="8" y="9" width="1" height="1"/>
+      <rect x="7" y="9" width="1" height="1"/>
+      <rect x="6" y="9" width="1" height="1"/>
+    </g>
+  </symbol>
+  <symbol id="grpsLogoHorizontalRect" width="21" height="6">
+    <g class="grps-logo--wd-g">
+      <rect x="4" y="1" width="1" height="1"/>
+      <rect x="3" y="1" width="1" height="1"/>
+      <rect x="2" y="1" width="1" height="1"/>
+      <rect x="1" y="1" width="1" height="1"/>
+      <rect x="1" y="2" width="1" height="1"/>
+      <rect x="1" y="3" width="1" height="1"/>
+      <rect x="1" y="4" width="1" height="1"/>
+      <rect x="2" y="4" width="1" height="1"/>
+      <rect x="3" y="4" width="1" height="1"/>
+      <rect x="4" y="4" width="1" height="1"/>
+      <rect x="4" y="3" width="1" height="1"/>
+    </g>
+    <g class="grps-logo--wd-r">
+      <rect x="6" y="4" width="1" height="1"/>
+      <rect x="6" y="3" width="1" height="1"/>
+      <rect x="6" y="2" width="1" height="1"/>
+      <rect x="6" y="1" width="1" height="1"/>
+      <rect x="7" y="1" width="1" height="1"/>
+      <rect x="8" y="1" width="1" height="1"/>
+      <rect x="9" y="1" width="1" height="1"/>
+      <rect x="9" y="2" width="1" height="1"/>
+      <rect x="9" y="3" width="1" height="1"/>
+      <rect x="8" y="3" width="1" height="1"/>
+      <rect x="7" y="3" width="1" height="1"/>
+      <rect x="8" y="4" width="1" height="1"/>
+    </g>
+    <g class="grps-logo--wd-p">
+      <rect x="11" y="4" width="1" height="1"/>
+      <rect x="11" y="3" width="1" height="1"/>
+      <rect x="11" y="2" width="1" height="1"/>
+      <rect x="11" y="1" width="1" height="1"/>
+      <rect x="12" y="1" width="1" height="1"/>
+      <rect x="13" y="1" width="1" height="1"/>
+      <rect x="14" y="1" width="1" height="1"/>
+      <rect x="14" y="2" width="1" height="1"/>
+      <rect x="14" y="3" width="1" height="1"/>
+      <rect x="13" y="3" width="1" height="1"/>
+      <rect x="12" y="3" width="1" height="1"/>
+    </g>
+    <g class="grps-logo--wd-s">
+      <rect x="19" y="1" width="1" height="1"/>
+      <rect x="18" y="1" width="1" height="1"/>
+      <rect x="17" y="1" width="1" height="1"/>
+      <rect x="16" y="1" width="1" height="1"/>
+      <rect x="16" y="2" width="1" height="1"/>
+      <rect x="19" y="3" width="1" height="1"/>
+      <rect x="19" y="4" width="1" height="1"/>
+      <rect x="18" y="4" width="1" height="1"/>
+      <rect x="17" y="4" width="1" height="1"/>
+      <rect x="16" y="4" width="1" height="1"/>
+    </g>
+  </symbol>
+  <symbol id="grpsLogoSquareLine" width="11" height="11">
+    <g class="grps-logo--wd-g">
+      <polyline points="5,1.5 1.5,1.5 1.5,4.5 4.5,4.5 4.5,3"/>
+    </g>
+    <g class="grps-logo--wd-r">
+      <polyline points="6.5,5 6.5,1.5 9.5,1.5 9.5,3.5 8.5,3.5 8.5,5 8.5,3.5 7,3.5"/>
+    </g>
+    <g class="grps-logo--wd-p">
+      <polyline points="1.5,10 1.5,6.5 4.5,6.5 4.5,8.5 2,8.5"/>
+    </g>
+    <g class="grps-logo--wd-s">
+      <polyline points="10,6.5 6.5,6.5 6.5,8"/>
+      <polyline points="9.5,8 9.5,9.5 6,9.5"/>
+    </g>
+  </symbol>
+  <symbol id="grpsLogoSquarePath" width="11" height="11">
+    <path class="grps-logo--p-g" d="M 5,1.5 1.5,1.5 1.5,4.5 4.5,4.5 4.5,3" />
+    <path class="grps-logo--p-r" d="M 6.5,5 6.5,1.5 9.5,1.5 9.5,3.5 8.5,3.5 8.5,5 8.5,3.5 7,3.5"/>
+    <path class="grps-logo--p-p" d="M 1.5,10 1.5,6.5 4.5,6.5 4.5,8.5 2,8.5"/>
+    <path class="grps-logo--p-s" d="M 10,6.5 6.5,6.5 6.5,8 M 9.5,8 9.5,9.5 6,9.5"/>
+  </symbol>
+  <symbol id="grpsLogoHorizontalPath" width="21" height="6">
+    <path class="grps-logo--p-g" d="M 5,1.5 1.5,1.5 1.5,4.5 4.5,4.5 4.5,3"/>
+    <path class="grps-logo--p-r" d="M 6.5,5 6.5,1.5 9.5,1.5 9.5,3.5 8.5,3.5 8.5,5 8.5,3.5 7,3.5"/>
+    <path class="grps-logo--p-p" d="M 11.5,5 11.5,1.5 14.5,1.5 14.5,3.5 12,3.5"/>
+    <path class="grps-logo--p-s" d="M 20,1.5 16.5,1.5 16.5,3 M 19.5,3 19.5,4.5 16,4.5"/>
+  </symbol>
+
+  <rect class="grps-logo-background" width="100%" height="100%" fill="none"/>
+
+  <path d="m 50,10 -40,0 0,40, 40,0 0,-20 -10,0 0,10 -20,0 0,-20 30,0 0,-10 z" class="grps-logo-g"/>
+  <path d="m 60,50 0,-40 40,0 0,30 -10,0 0,10 -10,0 0,-10 -10,0 0,10 -10,0 z m 10,-20 0,-10 20,0 0,10 -20,0 z" class="grps-logo-r" style="stroke-linejoin:miter"/>
+  <path d="m 10,100 0,-40 40,0 0,30 -30,0 0,10 -10,0 z m 10,-20 0,-10 20,0 0,10 -20,0 z"  class="grps-logo-p" style="stroke-linejoin:miter"/>
+  <path d="m 100,60 -40,0 0,20 10,0 0,-10 30,0 0,-10 z m 0,20 0,20 -40,0 0,-10 30,0 0,-10 10,0 z"  class="grps-logo-s" style="stroke-linejoin:miter"/>
+</svg>
+<!-- Use mask https://developer.mozilla.org/en-US/docs/Web/SVG/Element/mask -->
+<!-- Use pattern https://developer.mozilla.org/en-US/docs/Web/SVG/Element/pattern -->
+<!-- https://graphicriver.net/search?utf8=%E2%9C%93&term=brand+manual&referrer=search&view=grid&sort=sales -->
+<!-- https://github.com/maxwellito/vivus -->
