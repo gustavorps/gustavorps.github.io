@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Exemplo de Player via Stream - GustavoRPS</title>
+    
+    <style>
+        #player_stream {
+            width: 720px;
+        }
+    </style>
+</head>
+<body>
+  <h1>Streamedian</h1>
+  <video id="player_stream" controls autoplay>
+    <source src="rtsp://127.0.0.1:8554/test" type="application/x-rtsp">
+    <!--<source src="rtsp://184.72.239.149/vod/mp4:BigBuckBunny_175k.mov" type="application/x-rtsp">-->
+  </video>
+
+  <script src="https://cdn.bootcss.com/babel-polyfill/7.0.0-beta.2/polyfill.min.js"></script>
+  <script src="streamedian.min.js"></script>
+  <script>
+      var p = Streamedian.player('player_stream', {socket: 'wss://specforge.com/ws/'})
+  </script>
+</body>
+</html>
